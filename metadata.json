@@ -1,0 +1,6 @@
+{
+  "name": "CareerAI",
+  "description": "Интеллектуальный помощник по поиску работы для студентов, выпускников и начинающих специалистов: анализ резюме под вакансию, рекомендации по улучшению и тренажёр собеседования по методу STAR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
